@@ -15,7 +15,8 @@ const router = createRouter({
     {
       path: '/home',
       component: HomeView,
-      alias: '/'
+      alias: '/',
+      alias: '/WonderFullArticles'
     },
     {
       path: '/about',
